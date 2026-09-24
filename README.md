@@ -40,14 +40,14 @@ In this repository you will find the data, metadata, and R scripts used for the 
 
 1. **Clinical and anthropometric analysis**
 
-   * BMI-for-age z-score
-   * Weight-for-age z-score
-   * Height-for-age z-score
    * Lung function
    * Sweat chloride
    * Fecal calprotectin
    * Fecal elastase
    * Pancreatic enzyme replacement therapy (PERT)
+   * BMI-for-age z-score
+   * Weight-for-age z-score
+   * Height-for-age z-score
 
 2. **Dietary intake analysis**
 
@@ -102,10 +102,7 @@ In this repository you will find the data, metadata, and R scripts used for the 
    * Fat absorption markers
    * Serum lipid profile
    * Fecal microbial taxa
-
-10. **Microbiome–metabolite associations**
-
-* Associations between fecal microbial taxa and SCFA concentrations
+     
 
 ## Sequencing and proteomics data
 
