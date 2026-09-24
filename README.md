@@ -110,7 +110,6 @@ Shotgun metagenomic sequencing data are publicly available in the **European Nuc
 
 Proteomics data are publicly available through **ProteomeXchange/PRIDE**: PXD070696
 
-Due to GitHub file size limitations, large raw metaproteomic files are not included directly in this repository. Processed or filtered tables used for the statistical analyses are provided where applicable to facilitate reproducibility.
 
 ## Statistical approach
 
