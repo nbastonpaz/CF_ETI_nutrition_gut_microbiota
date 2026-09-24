@@ -1,5 +1,4 @@
 # CF_ETI_nutrition_gut_microbiota
-# Cystic fibrosis ETI therapy – nutrition, body composition, and gut microbiome
 
 **Paper:** “Beyond Weight Gain: Dietary Intake, Body Composition, and the Gut Microbiome After One Year of Elexacaftor-Tezacaftor-Ivacaftor in Children and Adolescents with Cystic Fibrosis”
 
